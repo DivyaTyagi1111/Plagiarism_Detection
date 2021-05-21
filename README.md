@@ -1,6 +1,6 @@
 # Plagiarism Detection using Java Relationship Graph (JRG)
 
-* The objectives of this project are listed below: -
+## The objectives of this project are listed below: -
   •	Detecting plagiarism using elements-based similarity.
   •	Combining the results of call graph approach with counting based approach using JRG.
   •	Devise the efficient and powerful similarity index to detect plagiarism.
