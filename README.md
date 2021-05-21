@@ -20,6 +20,3 @@
 
 Tip:  To visualize graphs and run cql queries use the attached document "Steps for installation and running neo4j community embedded version" to see how to open neo4j in browser.
 
-## Result 
-
-![Result][result.png]
