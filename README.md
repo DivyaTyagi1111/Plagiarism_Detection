@@ -1,3 +1,4 @@
+![result](https://user-images.githubusercontent.com/31409044/119099148-38dceb00-ba34-11eb-9741-7b19d5179f5f.png)
 # Plagiarism Detection using Java Relationship Graph (JRG)
 
 ## The objectives of this project are listed below: -
