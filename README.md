@@ -19,3 +19,7 @@
 7. Make sure to delete all created files before running the project again. Like both the neo4jDb files and both the project's recreated from graph.
 
 Tip:  To visualize graphs and run cql queries use the attached document "Steps for installation and running neo4j community embedded version" to see how to open neo4j in browser.
+
+## Result 
+
+![Result][result.png]
