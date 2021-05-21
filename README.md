@@ -1,4 +1,3 @@
-![result](https://user-images.githubusercontent.com/31409044/119099148-38dceb00-ba34-11eb-9741-7b19d5179f5f.png)
 # Plagiarism Detection using Java Relationship Graph (JRG)
 
 ## The objectives of this project are listed below: -
@@ -21,3 +20,6 @@
 
 Tip:  To visualize graphs and run cql queries use the attached document "Steps for installation and running neo4j community embedded version" to see how to open neo4j in browser.
 
+## Result
+
+![result](https://user-images.githubusercontent.com/31409044/119099148-38dceb00-ba34-11eb-9741-7b19d5179f5f.png)
