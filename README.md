@@ -1,10 +1,12 @@
 # Plagiarism Detection using Java Relationship Graph (JRG)
 
 ## The objectives of this project are listed below: -
-  •	Detecting plagiarism using elements-based similarity.
-  •	Combining the results of call graph approach with counting based approach using JRG.
-  •	Devise the efficient and powerful similarity index to detect plagiarism.
+1. Detecting plagiarism using elements-based similarity.
+2. Combining the results of call graph approach with counting based approach using JRG.
+3. Devise the efficient and powerful similarity index to detect plagiarism.
 
+## Steps to run the code
+0. Clone the repository
 1. Follow the steps given in the document "Steps for installation and running neo4j community embedded version" on how to set up and run neo4j using command prompt.
 2. Import the project and let it build and resolve all maven dependencies.
 3. Change the path of Java files as per your requirement in the main method of file "ExtendedJRGCreator.java" and run this file.
